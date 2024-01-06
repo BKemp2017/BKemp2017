@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bkemp2017&label=Profile%20views&color=0e75b6&style=flat" alt="bkemp2017" /> </p>
 
-- 🌱 Embedded Systems Architecture**
+- 🌱 Full Stack Web Development (MEAN STACK)**
 
 - 📫 How to reach me **blakekemp01@gmail.com**
 
